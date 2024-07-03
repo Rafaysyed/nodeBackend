@@ -1,7 +1,6 @@
 {
   "name": "flash-card-app",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -17,5 +16,6 @@
     "inquirer": "^9.3.2",
     "mongoose": "^8.4.4",
     "qr-image": "^3.2.0"
-  }
+  },
+  "description": ""
 }
